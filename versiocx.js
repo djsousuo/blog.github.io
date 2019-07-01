@@ -8,6 +8,7 @@ var rules = [
     ],
     [
         [
+            "weiyun.com",
             "bscstorage.net",
             "aftygh.gov.tw",
             "aide.gov.tw",
